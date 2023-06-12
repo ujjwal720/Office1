@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-15T13:24:46 IST" name="Default suite" finished-at="2023-05-15T13:24:46 IST" duration-ms="83">
+    <groups>
+    </groups>
+    <test started-at="2023-05-15T13:24:46 IST" name="Default test" finished-at="2023-05-15T13:24:46 IST" duration-ms="83">
+      <class name="testng.testq">
+        <test-method is-config="true" signature="first()[pri:0, instance:testng.testq@16ec5519]" started-at="2023-05-15T13:24:46 IST" name="first" finished-at="2023-05-15T13:24:46 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method is-config="true" signature="shammi()[pri:0, instance:testng.testq@16ec5519]" started-at="2023-05-15T13:24:46 IST" name="shammi" finished-at="2023-05-15T13:24:46 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shammi -->
+        <test-method is-config="true" signature="second()[pri:0, instance:testng.testq@16ec5519]" started-at="2023-05-15T13:24:46 IST" name="second" finished-at="2023-05-15T13:24:46 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method signature="jad()[pri:0, instance:testng.testq@16ec5519]" started-at="2023-05-15T13:24:46 IST" name="jad" finished-at="2023-05-15T13:24:46 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jad -->
+        <test-method is-config="true" signature="second()[pri:0, instance:testng.testq@16ec5519]" started-at="2023-05-15T13:24:46 IST" name="second" finished-at="2023-05-15T13:24:46 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method signature="jads()[pri:0, instance:testng.testq@16ec5519]" started-at="2023-05-15T13:24:46 IST" name="jads" finished-at="2023-05-15T13:24:46 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jads -->
+      </class> <!-- testng.testq -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
